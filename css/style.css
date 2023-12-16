@@ -123,7 +123,7 @@ section:first-child {
 }
 
 /* THIRD SECTION */
-.feedback-section {
+.third-section {
   min-height: 50vh;
   position: relative;
 }
@@ -199,10 +199,10 @@ section:first-child {
 }
 
 /* FOURTH SECTION */
-.outcome-section {
+.fourth-section {
   min-height: 80vh;
 }
-.outcome-section-container {
+.fourth-section-container {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -242,15 +242,15 @@ section:first-child {
 }
 
 /* FIFTH SECTION */
-.training-section {
+.fifth-section {
   margin-bottom: 10em;
 }
-.training-section-container h1 {
+.fifth-section-container h1 {
   text-align: center;
   font-size: 4rem;
   margin-bottom: 3em;
 }
-.training-section-container h1 span {
+.fifth-section-container h1 span {
   color: var(--secondary-color);
 }
 
@@ -274,18 +274,18 @@ section:first-child {
 
 /* SIXTH SECTION */
 
-.bonuses-section {
+.sixth-section {
   background-color: white;
   color: var(--primary-color);
   padding-bottom: 10em;
 }
-.bonuses-section-container h1 {
+.sixth-section-container h1 {
   text-align: center;
   font-size: 4rem;
   color: var(--main-color);
   padding: 2em 0 1em;
 }
-.bonuses-section-container h1 span,
+.sixth-section-container h1 span,
 .habits-container h2 {
   color: var(--secondary-color);
 }
@@ -330,16 +330,16 @@ section:first-child {
 /**********EDUCATIONAL***********/
 /********************************/
 
-.educational-section-container {
+.seventh-section-container {
   margin: 10em 0;
 }
-.educational-section-container h1 {
+.seventh-section-container h1 {
   text-align: center;
   font-size: 4rem;
   padding: 2em 0 1em;
   margin-bottom: 2em;
 }
-.educational-section-container h1 span {
+.seventh-section-container h1 span {
   color: var(--secondary-color);
 }
 
@@ -391,21 +391,21 @@ section:first-child {
 /********************************/
 /**********begin training***********/
 /********************************/
-.begin-training-section {
+.eight-section {
   background-color: white;
   color: var(--primary-color);
   padding: 10em 0;
 }
-.begin-training-section-container {
+.eight-section-container {
   max-width: 1200px;
   width: 100%;
 }
-.begin-training-section h1 {
+.eight-section h1 {
   font-size: 4rem;
   text-align: center;
   margin-bottom: 2em;
 }
-.begin-training-section h1 span {
+.eight-section h1 span {
   color: var(--secondary-color);
 }
 
@@ -420,14 +420,14 @@ section:first-child {
   justify-content: flex-end;
   margin: -75px -250px 0 0;
 }
-.begin-training-section form {
+.eight-section form {
   max-width: 1200px;
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.begin-training-section form input {
+.eight-section form input {
   border: none;
   border-bottom: 1px solid #000000;
   width: 30%;
@@ -435,7 +435,7 @@ section:first-child {
   font-size: 1.5rem;
   margin-right: 1.5em;
 }
-.begin-training-section form button {
+.eight-section form button {
   font-size: 1.2rem;
   font-weight: 700;
   width: 15%;
@@ -609,12 +609,12 @@ section:first-child {
 /**********Community***********/
 /********************************/
 
-.community-section-container h1 {
+.ninth-section-container h1 {
   font-size: 4rem;
   text-align: center;
   margin-bottom: 2em;
 }
-.community-section-container h1 span {
+.ninth-section-container h1 span {
   color: var(--secondary-color);
 }
 
@@ -721,17 +721,17 @@ section:first-child {
 /**********OFA SECTION***********/
 /********************************/
 
-.OFA-section {
+.tenth-section {
   background-color: white;
   color: var(--primary-color);
 }
 
-.OFA-section h1 {
+.tenth-section h1 {
   font-size: 4rem;
   text-align: center;
   margin-bottom: 2em;
 }
-.OFA-section h1 span {
+.tenth-section h1 span {
   color: var(--secondary-color);
 }
 
